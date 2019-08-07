@@ -1,6 +1,6 @@
 {
-  "name": "testecnm",
-  "version": "1.0.0",
+  "name": "t",
+  "version": "t",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "sequelize-cli": "^5.5.0"
-  }
+  },
+  "description": "t",
+  "repository": "https://github.com/jeffersonnunesfonseca/testecnm.git",
+  "author": "jeffersonnunes <jefferson@chavesnamao.com.br>"
 }

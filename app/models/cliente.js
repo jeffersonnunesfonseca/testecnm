@@ -10,7 +10,5 @@ module.exports = (sequelize, DataTypes) => {
         tableName: 'tb_cliente'
       
     });
-  
-    console.log(cliente);
     return cliente;
   }

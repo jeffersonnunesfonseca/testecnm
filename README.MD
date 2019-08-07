@@ -3,11 +3,17 @@ https://expressjs.com/pt-br/starter/hello-world.html
 https://sequelize.org/master/manual/models-definition.html
 
 
-consulta clientes na tb_cliente (sequelize)
+Caso:
+    Um funcionário emitiu um pedido para o setor de compras solicitando um notebook da marca xxxx , ele deve trocar a marca para uma outra qualquer.
 
-jogar na rota /clients (express /koa)
+ - Crie um api com laravel que liste os pedidos de um cliente atraves de seu id (no caso pode utlizar o id 1 de forma estática);
+ - Utilizando o node, permita alterar o pedido salvando direto no banco de dados sem passar pela api do php
 
-exibir no front (react)
+Premissas:
+   - Para servidor utilize o express;
+   - para acessar o banco de dados utilize o sequelize.
+
+
 
 instalando express
 npm install express --save
